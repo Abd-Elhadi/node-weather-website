@@ -58,10 +58,6 @@ button {
 
 a:link, a:visited {
     color: #333333;
-    text-decoration: none;
+    text-decoration: underline;
     cursor: pointer;
   }
-  
-  /* a:link:active, a:visited:active {
-    color: (internal value);
-  } */

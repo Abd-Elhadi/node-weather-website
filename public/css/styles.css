@@ -55,3 +55,13 @@ button {
     color: white;
     padding: 8px;
 }
+
+a:link, a:visited {
+    color: #333333;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  /* a:link:active, a:visited:active {
+    color: (internal value);
+  } */
